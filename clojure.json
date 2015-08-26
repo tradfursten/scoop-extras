@@ -1,0 +1,12 @@
+{
+    "homepage": "http://www.scala-lang.org/",
+    "version": "1.7.0",
+    "license": "EPL 1.0",
+    "url": "http://repo1.maven.org/maven2/org/clojure/clojure/1.7.0/clojure-1.7.0.zip",
+    "hash": "e14ab26a8b361b36de2d224aed12970d9662284b",
+    "extract_dir": "clojure-1.7.0",
+    "set_env": {
+        "CLOJURE_HOME": "$dir"
+    },
+    "depends": "openjdk"
+}
