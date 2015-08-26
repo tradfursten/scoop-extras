@@ -2,6 +2,6 @@
     "version": "2.5.1",
     "url": "https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein.bat",
     "bin": "lein.bat",
-    "hash": "fa5f9b3493c8f1eb03e62c2ea74d5737c974f396a8936db440d8afb2691d0fec",
+    "hash": "bcf0d7a8bec3dadfa57fec60c86dd14b276aa3eaacb584cd3a2241a252ef0b46",
     "notes": "To complete installation execute: lein self-install" 
 }
