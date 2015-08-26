@@ -3,7 +3,7 @@
     "version": "1.7.0",
     "license": "EPL 1.0",
     "url": "http://repo1.maven.org/maven2/org/clojure/clojure/1.7.0/clojure-1.7.0.zip",
-    "hash": "e14ab26a8b361b36de2d224aed12970d9662284b",
+    "hash": "4de303794da1766c547f1a1baaf368abfdf49d4cd8aaa237e5b2ffbbcd03cf93",
     "extract_dir": "clojure-1.7.0",
     "set_env": {
         "CLOJURE_HOME": "$dir"
